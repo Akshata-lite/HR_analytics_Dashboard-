@@ -25,4 +25,4 @@ This dashboard is designed to present key HR insights to the senior management o
 The analysis reveals that employees in certain roles, particularly in Sales and R&D, are more likely to leave due to workload and career progression concerns. **Introducing mentorship programs, skill development initiatives, and competitive salary adjustments** can help reduce turnover. Additionally, employees who frequently work overtime have a higher attrition rate, suggesting that **better workload management and flexible work policies** may improve retention.  
 
 ## Dashboard:  
-![image](https://github.com/Akshata-lite/HR_Analytics_Dashboard/blob/main/HR_Analytics_Dashboard.png)
+<img src="HR_Analytics_Dashboard.png" width="1080" height="560"/>
